@@ -1,0 +1,5 @@
+icrawler
+requests
+pillow
+lxml
+beautifulsoup4
